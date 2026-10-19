@@ -48,7 +48,13 @@ I am currently focused on **Java Backend Development** and opportunities involvi
 
 ## 🔗 Connect With Me
 
-- **LinkedIn:** https://www.linkedin.com/in/gullsher73/
-- **GitHub:** https://github.com/GullSher
-- **Upwork:** https://www.upwork.com/freelancers/gullsher73
-- **MyWebsite** https://codingbelt.com/
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+923161457292-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923161457292)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gull_Sher-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gullsher73/)
+[![Upwork](https://img.shields.io/badge/Upwork-Gull_Sher-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/gullsher73)
+[![Website](https://img.shields.io/badge/Website-codingbelt.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://codingbelt.com/)
+
+- **Email:** gulsher73@gmail.com
+- **WhatsApp:** [+92 316 1457292](https://wa.me/923161457292)
+- **LinkedIn:** [linkedin.com/in/gullsher73](https://www.linkedin.com/in/gullsher73/)
+- **Upwork:** [upwork.com/freelancers/gullsher73](https://www.upwork.com/freelancers/gullsher73)
+- **Website:** [codingbelt.com](https://codingbelt.com/)
